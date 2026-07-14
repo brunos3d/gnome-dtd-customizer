@@ -4,6 +4,8 @@ Live styling editor for [Dash to Dock](https://micheleg.github.io/dash-to-dock/)
 edit CSS and dock settings and watch the dock change **instantly** — no shell
 restart, no logout.
 
+![The customizer app: Dash to Dock settings sidebar on the left, live CSS editor on the right](docs/screenshot.png)
+
 ## Components
 
 | Piece | Path | Role |
