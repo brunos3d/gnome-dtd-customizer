@@ -1,0 +1,8 @@
+{
+  "uuid": "dtd-customizer-bridge@brunos3d.github.com",
+  "name": "DTD Customizer Bridge",
+  "description": "Hot-reloads a user CSS file (~/.config/gnome-dtd-customizer/dock.css) into the GNOME Shell theme so Dash to Dock styling can be edited live. Companion bridge for the gnome-dtd-customizer app.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/brunos3d/gnome-dtd-customizer",
+  "version": 1
+}

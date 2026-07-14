@@ -1,0 +1,21 @@
+/* Glass — bright hairline border and frosted-looking panel.
+ * Pairs well with: Transparency mode = Fixed, Opacity ≈ 0.35,
+ * Custom background color off (so this background-color applies). */
+
+#dashtodockContainer #dash .dash-background {
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 18px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+#dashtodockContainer .dash-item-container .app-well-app .overview-icon,
+#dashtodockContainer .dash-item-container .show-apps .overview-icon {
+    border-radius: 12px;
+    transition-duration: 150ms;
+}
+
+#dashtodockContainer .dash-item-container .app-well-app:hover .overview-icon,
+#dashtodockContainer .dash-item-container .show-apps:hover .overview-icon {
+    background-color: rgba(255, 255, 255, 0.18);
+}

@@ -1,0 +1,12 @@
+/* Floating pill — heavily rounded dock with a soft shadow. */
+
+#dashtodockContainer #dash .dash-background {
+    border-radius: 28px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45);
+    margin: 6px;
+}
+
+#dashtodockContainer .dash-label {
+    border-radius: 12px;
+    padding: 4px 12px;
+}
