@@ -99,3 +99,7 @@ styling: position (`.bottom`, `.left`, …), `.shrink`, `.extended`, `.fixed`,
 - The app writes only to `~/.config/gnome-dtd-customizer/` and the
   dash-to-dock GSettings keys listed in `SNAPSHOT_KEYS`; upstream Dash to
   Dock files are never touched.
+
+## License
+
+[GNU General Public License v3.0](LICENSE)
